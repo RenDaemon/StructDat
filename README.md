@@ -1,2 +1,3 @@
 # StructDat
-:D
+Just A Script Kiddie :p
+
